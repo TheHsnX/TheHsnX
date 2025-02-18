@@ -6,8 +6,8 @@
 ---
 
 ## 👀 About Me  
-Hey there! I’m **Hassan**, a **junior Python developer** deeply passionate about **Machine Learning, Deep Learning, and Flutter**.  
-I thrive on **solving problems, optimizing workflows, and building scalable applications**.  
+Hey there! I’m **Hassan**, a **junior Python developer** with a deep passion for **Machine Learning, Deep Learning, and Flutter**.  
+I thrive on **solving complex problems, optimizing workflows, and building scalable applications**.  
 
 💡 **My Philosophy:** _"Code should not only work but also inspire."_  
 
@@ -36,30 +36,35 @@ I thrive on **solving problems, optimizing workflows, and building scalable appl
 **Languages & Tools I Love Working With:**  
 
 💻 **Programming Languages:**  
-🔹 Python | Dart | JavaScript  
+`Python` | `Dart` | `JavaScript`  
 
 📦 **Frameworks & Libraries:**  
-🔹 Flutter | FastAPI | TensorFlow | Scikit-Learn  
+`Flutter` | `FastAPI` | `TensorFlow` | `Scikit-Learn`  
 
 🗄️ **Databases & Backend:**  
-🔹 MySQL | Firebase | PostgreSQL  
+`MySQL` | `Firebase` | `PostgreSQL`  
 
 🔧 **Development & DevOps:**  
-🔹 Docker | Git & GitHub | REST APIs  
+`Docker` | `Git & GitHub` | `REST APIs`  
 
 🤖 **AI & ML Ecosystem:**  
-🔹 Machine Learning | Deep Learning | NLP | LangChain  
+`Machine Learning` | `Deep Learning` | `NLP` | `LangChain`  
 
 ---
 
 ## 📊 Skills & Expertise  
-✅ **Python Development** – Writing clean, efficient, and scalable code  
-✅ **Machine Learning & Deep Learning** – Training & deploying AI models  
-✅ **Flutter App Development** – Cross-platform mobile apps  
-✅ **Data Structures & Algorithms** – Problem-solving & optimization  
-✅ **Database Management** – SQL & NoSQL databases  
-✅ **Version Control** – Git, GitHub & CI/CD  
-✅ **API Development** – FastAPI, Flask  
+### **Python Development**  
+▮▮▮▮▮▮▮▮▮▯ `90%`  
+### **Machine Learning & Deep Learning**  
+▮▮▮▮▮▮▮▮▯▯ `80%`  
+### **Flutter App Development**  
+▮▮▮▮▮▮▮▯▯▯ `70%`  
+### **Data Structures & Algorithms**  
+▮▮▮▮▮▮▯▯▯▯ `60%`  
+### **API Development (FastAPI, Flask)**  
+▮▮▮▮▮▮▮▮▯▯ `75%`  
+### **Database Management (SQL & Firebase)**  
+▮▮▮▮▮▮▮▯▯▯ `65%`  
 
 ---
 
@@ -73,6 +78,8 @@ I thrive on **solving problems, optimizing workflows, and building scalable appl
 
 ## 📫 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/hassan-imran-bb41902ba/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/TheHsnX)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/TheHsnX)  
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:itsmywork1019@gmail.com)  
 
-💌 **Let's Collaborate & Build Something Amazing!**  
+💌 **Email:** `itsmywork1019@gmail.com`  
+💬 **Let's Collaborate & Build Something Amazing!**  
