@@ -1,12 +1,12 @@
 # I'M Hassan 👋  
-🚀 **Passionate Developer | Python | Machine Learning | Flutter**  
+🚀 **Passionate Developer | Python | Artifitial Intelligence | Mobile AppDev**  
 
 🌍 Turning **ideas into reality** through code | 📈 Always **learning & growing** | 💡 Exploring the **boundaries of AI & Development**  
 
 ---
 
 ## 👀 About Me  
-Hey there! I’m **Hassan**, a **junior Python developer** with a deep passion for **Machine Learning, Deep Learning, and Flutter**.  
+Hey there! I’m **Hassan**, a **junior Python developer** with a deep passion for **Machine Learning, Deep Learning**.  
 I thrive on **solving complex problems, optimizing workflows, and building scalable applications**.  
 
 💡 **My Philosophy:** _"Code should not only work but also inspire."_  
@@ -14,7 +14,7 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 📌 **Current Focus:**  
 - 🛠️ **Building AI-Powered Apps**  
 - 📚 **Mastering LangChain & DeepSeek 1.5 Model**  
-- 🎯 **Sharpening my DSA & System Design Skills**  
+- 🎯 **Sharpening my AppDev & System Design Skills**  
 
 ---
 
@@ -25,7 +25,7 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 
 🛤️ **Professional & Projects:**  
 - ✅ Developed **Python-based applications**  
-- ✅ Created **Flutter apps with Firebase integration**  
+- ✅ Created **Mobile apps with Firebase integration**  
 - ✅ Implemented **Machine Learning models for real-world use cases**  
 
 🚀 **My Ambition:** Become a **Machine Learning Engineer** & **AI Solutions Architect**  
@@ -36,19 +36,19 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 **Languages & Tools I Love Working With:**  
 
 💻 **Programming Languages:**  
-`Python` | `Dart` | `JavaScript`  
+`Python` | `C++` | `C`  
 
 📦 **Frameworks & Libraries:**  
-`Flutter` | `FastAPI` | `TensorFlow` | `Scikit-Learn`  
+`Flutter` | `FastAPI` | `TensorFlow` | `Scikit-Learn` | `Pytorch` | `Keras`  
 
 🗄️ **Databases & Backend:**  
 `MySQL` | `Firebase` | `PostgreSQL`  
 
 🔧 **Development & DevOps:**  
-`Docker` | `Git & GitHub` | `REST APIs`  
+`Bash Scripting` | `Git & GitHub`  
 
 🤖 **AI & ML Ecosystem:**  
-`Machine Learning` | `Deep Learning` | `NLP` | `LangChain`  
+`Machine Learning` | `Deep Learning` | `LangChain` | `RAG`  
 
 ---
 
@@ -56,20 +56,19 @@ I thrive on **solving complex problems, optimizing workflows, and building scala
 ### **Python Development**  
 ▮▮▮▮▮▮▮▮▮▯ `90%`  
 ### **Machine Learning & Deep Learning**  
-▮▮▮▮▮▮▮▮▯▯ `80%`  
-### **Flutter App Development**  
 ▮▮▮▮▮▮▮▯▯▯ `70%`  
+### **Flutter App Development**  
+▮▮▮▮▯▯▯▯▯▯ `40%`  
 ### **Data Structures & Algorithms**  
 ▮▮▮▮▮▮▯▯▯▯ `60%`  
 ### **API Development (FastAPI, Flask)**  
-▮▮▮▮▮▮▮▮▯▯ `75%`  
-### **Database Management (SQL & Firebase)**  
 ▮▮▮▮▮▮▮▯▯▯ `65%`  
+### **Database Management (SQL & Firebase)**  
+▮▮▮▮▮▮▮▮▯▯ `75%`  
 
 ---
 
 ## 🔥 Fun Facts About Me  
-🎮 **Gaming Enthusiast** – Love playing strategy & FPS games  
 ☕ **Fueled by Coffee** – My best ideas come with caffeine  
 📖 **Tech Explorer** – Always diving into new frameworks & AI models  
 🚀 **Startup Dreamer** – Building something impactful in the future  
